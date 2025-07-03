@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vaultcoin-87145",
+  "private_key_id": "39756d43719ae3b75504b47dbe6a949c5b47e1e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTsIr8Yh++24WK\n6RLDkeUvj59HLGnAcK9Ei1CK4y5UwfQOlN7ekLmOiuj2jjXIRR8CrjA3nAyEpQAg\nc3XfoebrKWeOpxuQa/Ki8x4eIec8RKpdX/8X8LBB6EoPT7hImBdU+SASik9gpDnm\n9I/8Z8sA8dr1p534hSby4ERuFJPxJSwGHrK30aDP54ESVrt7+oXt9M9kSIExnn5A\nGI03wvdqQ4DP5KDCwT8PlZdye978GQHuktLhcQ+HCAVbG9704/Lr9vVQhSlEyL5l\nMkadxyXMsENfLidlQKzH7VbOYu+jxcvyYobpyZY2ltxM+23oRTDQ4T3yCHeJbIha\n3k8Oocl5AgMBAAECggEAZv4eaPOeqV+ppe+G+xLJFG5Gmry/iOrqQyma2q/0UzV4\nNf31Pwjf1ru743VGMnV6xHWWLQAl0QVsPd2fDFp7fI+M/ElObmIuz1wEm7l4BQkN\ncFerx2yJfM909OUe7mbc9zEsCwky3HyaVUVIpo+jI4cINnvCLm8uB33YnUwyvGAs\nIUkB1oZlAVC5Z7GYNamnYv/92i+TTkgYWkgOYbegl3w4GKTOm2l+oLFBteXpaw4+\nSri3FDAmzn1uX/SL/MRuwoVH1gqvtOx+SunIerWwznc8CW2wA59QKyUyZDkBLeet\njt3rdSxNRXw/iATaCQw1WXhzkzAVzJX24XIGgmlgJwKBgQD17QDjZxa9KrKAWm7P\nWHBgl7HMBZwd0R/9U6wNnDcanBA12YhgUHlAjweCoh+nyUmsAKrPuCAeRflNWU+Y\nawrMPqvKJFSt0Y3EvHWwoqnt4hejfZO5tPgZ8VhPCqvdl+4e4UiHpeVh2aPxk7WJ\nPnlOcJnHfLFxMiBPbFzocmSv4wKBgQDcXIIsBNACMWYZyOQGdoSDZ4Ei+j0U/VYN\nxcIZdb0uNjvvYj4/El1+qMOIiOQ6TkyJcBqmsPjDTwBhbBAUH6IBa4SYY4oMeN5z\nT6hGJ8S/7w9RNNnvqL/6f1jazuyPBKVYIGNv86BLQ0G+KHrYpBwxRNnA+dMf+rhq\n9JNxFZPn8wKBgCR2eHw/C7MOgprfTbC2hyr7MuRyLHyLRjf0UP1PnSf33btuPncx\nV1kIG+/1g8YH5UF4c9sKjNCQRW9/f3q03Ev+OtBk5J1FBcUWwEhpRdK8hA68jsup\nFmQaUaKejW70mNzBQFTEdycz8sfdw7vOpIPJ1DMsvM5wxTOheIEKfP1LAoGABZoM\nbRYKO6QJ1mn28fsdT0HYVI1L9Dakc2Etl/wYPQ5/44v5zRyoZ8nefqAMPTc0VuIU\nq1wgVsaxWcind/t94M9c5YrSPZLtBL1np7DnHYH0P7o6OA9wIewO1DEiblhN47mf\nDX+B+afSCgV5afxyAwafCnrPVSbIfV+OR/emdOUCgYEApVA2+I7+MS7jubOfGdMu\nDjCdnkbneOKATRo3VU91JbG2Ww1XoJqMVXKpHAd8MKLJp/Rm2sKT0aC97pEhUj3e\n5r1nVjuMNeRp3j1J3MbAVxsGDjhPuGHvq3PZj+TDB/YqSATqvRTMuY1nNmf108/y\ncQ7yQBwfS4dFoNJl0Po6SmM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@vaultcoin-87145.iam.gserviceaccount.com",
+  "client_id": "113133071065403688110",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40vaultcoin-87145.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
