@@ -91,4 +91,6 @@ def setup_bot():
         print("\n✅ .env file created!")
 
 if __name__ == "__main__":
+
     setup_bot() 
+# it ends now im recreating this 
